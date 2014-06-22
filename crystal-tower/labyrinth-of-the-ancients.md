@@ -27,3 +27,19 @@
 /wait 3
 /alliance Basically, only ghosts can damage the boss. Pots turn you into ghosts, so protect the pots from adds.
 /alliance ...and that's it!
+
+## King Behemoth
+/alliance Please don't talk for a second, I'm going to explain the fight.
+/wait 2
+/alliance HEALERS: Everybody takes continuous damage, there's no avoiding it. Gotta keep everyone topped up.
+/wait 2
+/alliance TANKS:
+/alliance 1 tank on King Behemoth
+/alliance 1 tank on Iron Giants. Keep them away from Comets and King Behemoth. VERY important you pick them up immediately.
+/alliance One tank on each of the 4 towers. Your job is to click the tower when it lights up.
+/wait 5
+/alliance DPS: Bombs > Iron Giant > King Behemoth
+/wait 2
+/alliance EVERYBODY: If you get a green dot over your head, a Comet is going to land where you stand. Stay towards the center, away from King Behemoth and Iron Giant.
+/alliance When King Behemoth roars, run behind a Comet. Keep it in line of sight between him and you.
+/alliance ...and that's it!
