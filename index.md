@@ -7,4 +7,4 @@ title: Home
 
 * Crystal Tower
 	* Labyrinth of the Ancients
-	* [Syrcus Tower]({% post_url crystal-tower/syrcus-tower %})
+	* [Syrcus Tower]({{ site.baseurl }}/crystal-tower/syrcus-tower.html)
