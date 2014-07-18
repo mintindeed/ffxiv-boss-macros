@@ -54,4 +54,5 @@ subtitle: Crystal Tower | CT / LOTA
 -----
 
 Props:
+
 * [levi85 on Reddit, from the Free Company <RELIC> of Sargatanas](http://www.reddit.com/r/ffxiv/comments/1tfka6/crystal_tower_boss_explanation_macros/)
