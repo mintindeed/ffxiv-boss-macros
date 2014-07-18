@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Labyrinth of the Ancients
+subtitle: Crystal Tower | CT / LOTA
 ---
 
 ## Bone Dragon

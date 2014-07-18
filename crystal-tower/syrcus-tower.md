@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Syrcus Tower
+subtitle: Crystal Tower | CT2 / ST
 ---
 
 ## Scylla
@@ -59,4 +60,8 @@ title: Syrcus Tower
 	/wait 2
 	/a Have fun on this last one! ♥
 
-Props to [AliceHeuz on Reddit](http://www.reddit.com/r/ffxiv/comments/2ay4en/syrcus_tower_macros_to_explain_the_fights/)
+-----
+
+Props:
+
+* [AliceHeuz on Reddit](http://www.reddit.com/r/ffxiv/comments/2ay4en/syrcus_tower_macros_to_explain_the_fights/)
